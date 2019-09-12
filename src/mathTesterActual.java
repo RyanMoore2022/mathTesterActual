@@ -22,23 +22,3 @@ public class mathTesterActual {
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
