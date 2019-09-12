@@ -3,7 +3,7 @@ public class mathTesterActual {
         String firstWord;
         String secondWord;
         int firstNumber, secondNumber;
-
+        int total;
 
         firstWord = "dog";
         secondWord = "house";
@@ -19,9 +19,9 @@ public class mathTesterActual {
         System.out.println("firstNumber * secondNumber is " + (firstNumber * secondNumber));
         System.out.println("This is the modulus of the secondNumber by the firstNumber is " + (firstNumber % secondNumber));
 
+        total = firstNumber+secondNumber/secondNumber;
 
-
-
+        System.out.println("the total of firsNumber + secondNumber / secondNumber is " +total);
 
 
 
