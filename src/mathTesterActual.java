@@ -27,23 +27,3 @@ public class mathTesterActual {
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
